@@ -463,7 +463,7 @@ void MonkeeQuest()
 					{
 						acomb = getsome(1, $item[comb jelly]);
 					}
-					if (!have_skill($skill[torso awaregness]))
+					if (!have_skill($skill[torso awareness]))
 					{
 						asweater = false;
 					}
